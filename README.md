@@ -2,7 +2,7 @@
 
 Steps to follow:
 
-1. Collect the stock data : Here we will be using AAPl dataset from TIingo
+1. Collect the stock data : Here we will be using AAPl dataset from Tiingo
 
 2. Splitting train and test data
 
